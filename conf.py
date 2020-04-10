@@ -52,3 +52,5 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 numfig = True
+
+master_doc = 'index'
