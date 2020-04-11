@@ -12,7 +12,7 @@ Step 1 - Install the Plugin
 Head over to the admin page and go to the "External plugin" section.
 
 .. _external_plugins:
-.. figure:: images/external-plugins.png
+.. figure:: images/page-external-plugins.png
 
    External plugins page
 
@@ -54,7 +54,9 @@ Click "Add" next to the plugin you want to add, in this case LegitTorrents.
 
    Configuration menu for LegitTorrents Plugin.
 
-When adding a new plugin a form appears with all the necessary and optional settings available. A filled out form for LegitTorrent can be seen in :numref:`configure_legittorrents_plugin`. This also relies on the Deluge plugin added in another guide. When done, click "Save".
+When adding a new plugin a form appears with all the necessary and optional settings available.
+A filled out form for LegitTorrent can be seen in :numref:`configure_legittorrents_plugin`.
+This also relies on the Deluge plugin added in another guide. When done, click "Save".
 
 Step 3 - Link With a Store
 ------------------------------------------------
@@ -64,7 +66,9 @@ Step 3 - Link With a Store
 
    Add a new store popup.
 
-We now need to link the searcher plugin with a store, click "Add new section" under the "Store". A popup as seen in :numref:`add_new_store` pops up. Since the LegitTorrent plugin can stream movies we need to link it with a "movies" store. Click the "Add" button.
+We now need to link the searcher plugin with a store, click "Add new section" under the "Store".
+A popup as seen in :numref:`add_new_store` pops up.
+Since the LegitTorrent plugin can stream movies we need to link it with a "movies" store. Click the "Add" button next to the movies store.
 
 .. _store_config:
 .. figure:: images/store-config.png
@@ -73,7 +77,7 @@ We now need to link the searcher plugin with a store, click "Add new section" un
 
 A new section pops up under store and it should be filled out, an example of a filled out form can be seen in :numref:`store_config`.
 
-To get the searcher drop down to popup, click the "add" button. When done, press "Save".
+To get the searcher drop down to popup, click the "Add" button. When done, press "Save".
 The changes are not yet live, click the "Commit changes" button under "Store" to make the changes live.
 
 Step 4 - Use the New Plugin

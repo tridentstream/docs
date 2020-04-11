@@ -26,7 +26,7 @@ Please note, some versions of Deluge 2 has a broken plugin system.
 Step 3 - Configuring Deluge Streaming
 ------------------------------------------------
 
-To use Deluge Streaming with Tridentstream the remote access needs to be enabled.
+To use Deluge Streaming with Tridentstream the "Allow remote control" needs to be enabled.
 
 .. _deluge_streaming_config:
 .. figure:: images/deluge-streaming-settings.png
@@ -74,7 +74,7 @@ Click the highlighted "Add new plugin" button.
 
    The add new plugin popup
 
-A pop appears as seen in :numref:`add_new_plugin_popup`, click "Add" next to the Deluge plugin.
+A popup appears as seen in :numref:`add_new_plugin_popup`, click "Add" next to the Deluge plugin.
 
 .. _deluge_plugin_form:
 .. figure:: images/deluge-plugin-form.png

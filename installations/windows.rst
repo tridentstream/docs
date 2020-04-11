@@ -17,7 +17,7 @@ Tridentstream. The installation will pop up some windows and might take some tim
 `Click here to download <https://github.com/tridentstream/setups/raw/master/windows-user/tridentstream-setup.exe>`_
 
 After the installation is complete a new Shortcut is created. Run the shortcut and Tridentstream
-should be accessible at http:/127.0.0.1:45477/
+should be accessible at http://127.0.0.1:45477/
 
 Configuration
 ---------------------------------
