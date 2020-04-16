@@ -43,7 +43,7 @@ To use Deluge Streaming with Tridentstream the "Allow remote control" needs to b
 
 * The green line is the remote control URL, this is needed for Tridentstream
 
-After the correct settings are changed, press apply and test the "Remote control url" (green line).
+After the correct settings are changed, press apply and test the "Remote control url" (green line) by opening it in a webbrowser.
 
 .. _streaming_working_url:
 .. figure:: images/streaming-working-url.png

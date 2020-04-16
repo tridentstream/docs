@@ -17,7 +17,8 @@ Head over to the admin page and go to the "External plugin" section.
    External plugins page
 
 :numref:`external_plugins` shows the external plugin page with no plugins uploaded yet.
-Click the "Upload Plugins" button and select the plugin files you want to upload.
+
+* Click the "Upload Plugins" button and select the plugin files you want to upload.
 
 
 .. _plugin_uploaded:
@@ -28,9 +29,9 @@ Click the "Upload Plugins" button and select the plugin files you want to upload
 :numref:`plugin_uploaded` shows the plugin being successfully uploaded. The uploaded plugin is available in the
 "Available plugin" list.
 
-Click the "Enable" button under the plugin, this will make it show up in the "Enabled plugins" list as seen in :numref:`plugin_enabled`.
-The text says "Loaded: No" which means that the plugin is not loaded into Tridentstream yet.
-This can be solved by clicking "Restart Tridentstream" - the server will restart and load the plugin.
+* Click the "Enable" button under the plugin, this will make it show up in the "Enabled plugins" list as seen in :numref:`plugin_enabled`.
+
+* The text says "Loaded: No" which means that the plugin is not loaded into Tridentstream yet. This can be solved by clicking "Restart Tridentstream" - the server will restart and load the plugin.
 
 .. _plugin_enabled:
 .. figure:: images/plugin-enabled.png
@@ -45,9 +46,10 @@ Step 2 - Add the Plugin
 
    Add new searcher popup with LegitTorrents available.
 
-With the plugin loaded we can now use it. Go to the "Plugins" tab and click "Add new searcher".
-A popup will appear as seen in :numref:`plugin_now_addable` where you can add your new plugin.
-Click "Add" next to the plugin you want to add, in this case LegitTorrents.
+With the plugin loaded we can now use it.
+
+* Go to the "Plugins" tab and click "Add new searcher".
+* A popup will appear as seen in :numref:`plugin_now_addable` where you can add your new plugin. Click "Add" next to the plugin you want to add, in this case LegitTorrents.
 
 .. _configure_legittorrents_plugin:
 .. figure:: images/configure-legittorrents-plugin.png
@@ -66,9 +68,11 @@ Step 3 - Link With a Store
 
    Add a new store popup.
 
-We now need to link the searcher plugin with a store, click "Add new section" under the "Store".
-A popup as seen in :numref:`add_new_store` pops up.
-Since the LegitTorrent plugin can stream movies we need to link it with a "movies" store. Click the "Add" button next to the movies store.
+We now need to link the searcher plugin with a store
+
+* Click "Add new section" under the "Store". A popup as seen in :numref:`add_new_store` pops up.
+
+* Since the LegitTorrent plugin can stream movies we need to link it with a "movies" store. Click the "Add" button next to the movies store.
 
 .. _store_config:
 .. figure:: images/store-config.png
@@ -77,8 +81,11 @@ Since the LegitTorrent plugin can stream movies we need to link it with a "movie
 
 A new section pops up under store and it should be filled out, an example of a filled out form can be seen in :numref:`store_config`.
 
-To get the searcher drop down to popup, click the "Add" button. When done, press "Save".
-The changes are not yet live, click the "Commit changes" button under "Store" to make the changes live.
+* To get the searcher drop down to popup, click the "Add" button.
+
+* When done, press "Save".
+
+* The changes are not yet live, click the "Commit changes" button under "Store" to make the changes live.
 
 Step 4 - Use the New Plugin
 ------------------------------------------------

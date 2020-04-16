@@ -3,6 +3,8 @@ Tridentstream Guides
 
 This page contains information about how to install and use Tridentstream Media Server.
 
+.. TODO: a bit about what it actually is and can do
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
