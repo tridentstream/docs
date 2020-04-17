@@ -24,3 +24,5 @@ Configurable options can be found in the .environ file and at the top of :code:`
 Settings are reloaded by running :code:`./restart.sh`.
 
 If you want to enable SSL or change port, modify :code:`./start.sh`.
+
+First time you login, a new user is created with the info you login with.

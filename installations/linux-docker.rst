@@ -74,3 +74,5 @@ When Tridentstream is bootstrapped, it can be started by executing start.sh.
 If you decided to include Deluge, it is now available at: https://example.com/_deluge_web/.
 
 It is strongly recommended that you change the default Deluge WebUi password.
+
+First time you login, a new user is created with the info you login with.

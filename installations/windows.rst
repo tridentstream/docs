@@ -30,3 +30,5 @@ Special Note
 
 To shut down the server, close the window running Tridentstream.
 You might have to press a few times before it succeeds.
+
+First time you login, a new user is created with the info you login with.
